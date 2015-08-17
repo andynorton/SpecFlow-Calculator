@@ -1,5 +1,5 @@
 # SpecFlow calculator code kata
-A simple solution to the SpecFlow default template 'Calculator' feature
+A simple solution to the SpecFlow default template 'Calculator' feature, using NUnit and SpecFlow
 
 #### Feature
 
